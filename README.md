@@ -3,6 +3,11 @@ Anomaly Detection
 
 The real world does not slow down for bad data
 
+1. Download the benchmark data set from https://www.kaggle.com/boltzmannbrain/nab or https://github.com/numenta/NAB/tree/master/data
+2. Load the one of the data set into panda data frames
+3. Formulate one or two ideas on how feature engineering would help the data set to establish additional value using exploratory data analysis
+4. Build one or more anomaly detection models to determine the anomalies using the other columns as features
+
 Project Organization
 ------------
 
